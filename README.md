@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + Tailwind CSS
 
 This is a personal simple pet project to practice Tailwind CSS, and make a simple responsive Nike website template.
 
